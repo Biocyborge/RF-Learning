@@ -29,3 +29,4 @@ This repository explores the concept of **Reinforcement Learning (RL)** using th
 3. Run the Python scripts to train the agent and visualize the results.
 
 ## Source: https://github.com/sayakpaul/FloydHub-Q-Learning-Blog/blob/master/Q-Learning%20using%20numpy.ipynb
+## Bing Bong
